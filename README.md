@@ -72,7 +72,3 @@ banner motd $Unauthorized access strictly prohibited$
 ## Tools Used
 - Cisco Packet Tracer
 - Cisco 2911 Series Routers
-
-## References
-- Anthropic. (2025). Claude AI (Claude Sonnet 4.6) [Large language model]. 
-  Used as a guiding tool throughout this lab. https://www.claude.ai
